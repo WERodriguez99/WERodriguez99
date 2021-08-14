@@ -1,16 +1,23 @@
-### Hi there 👋
+Hola, Bienvenidos a mi github, mi nombre es Walter Rodriguez. Soy un desarrollador web fullstack orientado al desarrolo back-end y testing
 
-<!--
-**WERodriguez99/WERodriguez99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+ const Walter = {
+  
+    FrontEnd: ['ReactJs', 'Redux', 'CSS Modules'],
+    
+    BackEnd:  ['Express', 'NodeJs', 'Sequalize', 'PostgreSQL', 'php'],
+    
+    Testing: ['Jest', 'Mocha']
+    
+    Soft_Skills: ['Autodidacta', 'Trabajo en equipo'],
+    
+    Projects: [
+    
+       { PokeApp : ['React', 'Redux', 'CSS Module', 'Sequalize', 'NodeJs' , 'PostgreSQL' ] },
+       
+       { Wall_et: ['Sequalize', 'NodeJs', 'PostgreSQL', 'Jest'] }
+     ]
+ 
+ }
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
